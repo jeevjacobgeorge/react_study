@@ -1,0 +1,23 @@
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    background-color: #e9cf66;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
